@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in university, learning to program in C#, and I also know a little about Python.
+I'm a Computer Science undergraduate, learning to program in C#, Cisco Certified in Network Defense and Introduction to Cybersecurity.
 
 
 ## 🌐 Socials:
