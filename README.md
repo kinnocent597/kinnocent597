@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science undergraduate, learning to program in C#, Cisco Certified in Network Defense and Introduction to Cybersecurity.
+I'm a Computer Science undergraduate, learning to program in C#, Cisco Certified in Network Defense and Introduction to Cybersecurity, currently broadining my knowledge in python.
 
 
 ## 🌐 Socials:
